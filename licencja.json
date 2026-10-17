@@ -1,4 +1,4 @@
 {
-  "dane": "{\"format\":1,\"wydano\":\"2026-10-17T15:36:51.165Z\",\"instalacje\":{\"alfa-system\":{\"status\":\"aktywna\",\"waznaDo\":null,\"komunikat\":\"\"}}}",
-  "podpis": "LeEe9g7mQHz9VCU7SBGWqCAB7DIAE+1Ofi3QumH90vCOop+kE1duW9bNMPr3MkPbwDoRAqYqcNClzYrlOPnfCA=="
+  "dane": "{\"format\":2,\"wydano\":\"2026-10-17T16:31:17.695Z\",\"instalacje\":{\"d9c8226d762babbe57d2316e6fa506caa7db1ce7c30abcace3f1a612e815bdc9\":{\"status\":\"aktywna\",\"waznaDo\":null,\"komunikat\":\"\"}}}",
+  "podpis": "VSiWIET2fCFOz4NR7QGpHi/cimqWEz1UZ92hBD2tzU27NR6oP9HpfwlDZIXE+KytUe8nrPJ/TH78KQcfddiNCA=="
 }
